@@ -31,3 +31,4 @@ mle<-function(beta,resp,eps=0.01){
 	se_M=sqrt(1/variance)
 return(c(M,se_M))
 
+}
